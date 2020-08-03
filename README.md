@@ -1,5 +1,7 @@
 # Flavoflix
 ## Project done during Alura's React Immersion
+
+![Pagina do projeto](https://github.com/Gatskaki/Flavoflix/blob/master/src/assets/homeFlavoflixVideo.gif)
 ### Web preview:  https://flavoflix.vercel.app/
 
 ## Technologies 
