@@ -3,9 +3,6 @@ import config from '../config';
 const URL_VIDEOS = `${config.URL_BACKEND_TOP}/videos`;
 
 function create(objetoDoVideo) {
-  // eslint-disable-next-line no-console
-  console.log(config.URL_BACKEND_TOP);
-
   return fetch(`${URL_VIDEOS}?_embed=videos`, {
     method: 'POST',
     headers: {
@@ -19,7 +16,7 @@ function create(objetoDoVideo) {
         return resposta;
       }
 
-      throw new Error('Não foi possível cadastrar os dados ;-;');
+      throw new Error('Não foi possível cadastrar os dados :(');
     });
 }
 
