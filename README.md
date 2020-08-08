@@ -20,7 +20,7 @@
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Gatskaki/Flavoflix
+$ git clone https://github.com/flaviomanuel/Flavoflix
 
 # Go into the repository
 $ cd Flavoflix
