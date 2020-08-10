@@ -35,4 +35,4 @@ $ npm run dev
 ## License 
 ---
 
-This project is under the MIT license. See the [LICENSE](https://github.com/lukemorales/Flavoflix/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/flaviomanuel/Flavoflix/blob/master/LICENSE) for more information.
